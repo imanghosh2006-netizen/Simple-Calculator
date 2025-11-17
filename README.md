@@ -3,7 +3,8 @@
 This is a simple calculator built with the Python Kivy framework. This project was created as a way to learn and practice using Kivy for cross-platform app development.
 
 ## 📸 Screenshot
-(You can add a screenshot here later! Just drag and drop an image into this text box)
+<img width="894" height="667" alt="image" src="https://github.com/user-attachments/assets/e8bddfd8-3a0f-4c77-adbe-67ed50649ca3" />
+
 
 ## ⚙️ Requirements
 
